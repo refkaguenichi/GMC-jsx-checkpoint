@@ -1,0 +1,13 @@
+.title {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.red {
+    color: red;
+}
+
+.image{
+    margin: 1%;
+    padding:1%;
+}
